@@ -1,4 +1,5 @@
 Scheduling_JS_Learning
+
 Basics:
         * What is js?
         * Why use need js?
@@ -23,17 +24,17 @@ Topics:
         * MouseEvent Properties
         * Focus Events
         
-DOM Manupulation
+DOM Manupulation:
         * get Element ById,
         * get Element By classname,
         * query selector,
         * query selector all,
 
-Changin content
+Changin content:
         * inner HTML
         * text Content
 
-Event Handling
+Event Handling:
         * Adding event listerner
         * Handling Event 
          like (Click, input, Submit)
